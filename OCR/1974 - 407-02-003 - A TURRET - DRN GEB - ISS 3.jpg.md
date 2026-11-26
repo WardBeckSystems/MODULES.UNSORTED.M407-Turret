@@ -35,7 +35,7 @@ Wiki page: [M407](../../../../PAGES/M407.md)
 - **Title block:** (299, 8)–(412, 32) mm: DSSMOD: · CKD · USED ON · WBS WARD-BECK · Ei9Rc · BlG4 · DRM: · DATE · SEB · oCt · M407 · FIMSA · CKD · PC: · TURRET · SCALE · Zia · 407 · 02 003 · TOLS_
 - **Wiring (first pass):** 74 connected wire groups from 739 runs; labelled ends: 557 mm → 220 /4ov, 131, M44IM, Ch ON; 273 mm → XLR-7-14, 2k5 LoC; 219 mm → TALKBACK; 179 mm → Ch ON; 169 mm → T/b, T/g CPMMon, 4N4003
 
-Every curve, box, word and wire group: [1974 - 407-02-003 - A TURRET - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1974%20-%20407-02-003%20-%20A%20TURRET%20-%20DRN%20GEB%20-%20ISS%203%20(traced).json) (the CAD file: `1974 - 407-02-003 - A TURRET - DRN GEB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 407-02-003 - A TURRET - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1974%20-%20407-02-003%20-%20A%20TURRET%20-%20DRN%20GEB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1974 - 407-02-003 - A TURRET - DRN GEB - ISS 3 (traced).dxf`).
 
 ## Full text
 
