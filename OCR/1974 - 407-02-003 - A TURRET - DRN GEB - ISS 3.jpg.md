@@ -1,5 +1,5 @@
 # 1974 - 407-02-003 - A TURRET - DRN GEB - ISS 3.jpg
-Wiki page: [M407](../../../../PAGES/M407.md)
+Wiki page: [M407](../)
 
 
 - **Year:** 1974 (title block date)

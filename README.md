@@ -1,6 +1,6 @@
 # M407 Turret · Unsorted
 
-Ward-Beck Systems M407, 1974|7. Wiki page: [M407 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M407.html)
+Ward-Beck Systems M407, 1974|7. Wiki page: [M407 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M407-Turret/)
 
 | Folder | What is in it | Files |
 |---|---|---|
